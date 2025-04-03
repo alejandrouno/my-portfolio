@@ -14,10 +14,10 @@ export default function Home() {
         <section className="mb-12">
           <div className="flex flex-col md:flex-row gap-6 items-center md:items-start">
             <div className="w-32 h-32 rounded-full bg-blue-500 flex items-center justify-center text-3xl font-bold">
-              JD
+              ATF
             </div>
             <div className="flex-1 text-center md:text-left">
-              <h1 className="text-3xl font-bold mb-2">Jane Designer</h1>
+              <h1 className="text-3xl font-bold mb-2">Alejandro Tapia Fernandez</h1>
               <p className="text-gray-400 mb-4">UX Designer & Frontend Developer</p>
               <p className="mb-4 max-w-xl">
                 Creando experiencias digitales intuitivas y atractivas. Especializada en diseño UX/UI y desarrollo
